@@ -1,0 +1,30 @@
+{
+    "name": "abdelrahmannourallah/yii2-sharerbox",
+    "description": "The sharerbox extension for the Yii2 framework",
+    "keywords": ["yii2", "sharerbox"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/abdelrahman-nourallah/yii2-sharerbox/issues",
+        "source": "https://github.com/abdelrahman-nourallah/yii2-sharerbox"
+    },
+    "authors": [
+        {
+            "name": "Abdelrahman Nourallah",
+            "email": "info@ip4t.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii2": "*",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "sharerbox/rest-api-sdk-php": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "abdelrahmannourallah\\sharerbox\\": ""
+        }
+    }
+}
