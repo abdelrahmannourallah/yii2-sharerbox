@@ -1,7 +1,7 @@
 {
     "name": "abdelrahmannourallah/yii2-sharerbox",
     "description": "The sharerbox extension for the Yii2 framework, help you to share post to facebook ,whatsup , twitter, and print",
-    "keywords": ["yii2", "sharerbox","facebook share"],
+    "keywords": ["yii2", "sharerbox","facebook share","whatsup"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
